@@ -1,6 +1,6 @@
 import type { PaymentChangeForm, SupportingDocument } from './trustflowApi'
 
-const rawBase = 'https://raw.githubusercontent.com/ahmed2qaid/trustflow-sentinel/main/demo-data/generated'
+const rawBase = 'https://raw.githubusercontent.com/ahmed0qaid/trustflow-sentinel/main/demo-data/generated'
 
 const docs = {
   case1Invoice: documentRef('invoice', 'Invoice', 'case1_invoice.pdf'),
