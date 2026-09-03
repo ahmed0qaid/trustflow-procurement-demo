@@ -1,6 +1,6 @@
 # Acme Procurement Demo
 
-This is a companion upstream procurement application for TrustFlow Sentinel. It simulates an existing enterprise procurement system creating a payment-destination change request and sending it to TrustFlow.
+This is a companion upstream procurement application for [TrustFlow Sentinel](https://github.com/ahmed2qaid/trustflow-sentinel). It simulates an existing enterprise procurement system creating a payment-destination change request and sending it to TrustFlow.
 
 Its responsibility is:
 CREATE → PREPARE → SEND
